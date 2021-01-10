@@ -39,4 +39,7 @@ The steps I took to try and increase the process model were to increase the node
 ![alt_text](https://github.com/NassimNatA/Neural_Network_Charity_Analysis/blob/main/Screen%20Shot%202021-01-10%20at%202.18.39%20PM.png)
 ![alt_text](https://github.com/NassimNatA/Neural_Network_Charity_Analysis/blob/main/Screen%20Shot%202021-01-10%20at%202.18.31%20PM.png)
 ![alt_text](https://github.com/NassimNatA/Neural_Network_Charity_Analysis/blob/main/Screen%20Shot%202021-01-10%20at%202.18.25%20PM.png)
+
 ## Summary
+
+Despite numberous optimizations, our model stayed below the target 75% accuracy that was targeted. However, since this model is > 5% fromt the target accuracy, it can still provide valuable predictions for applicant success. A recommendation for how a different model could solve this classification problem is to further eliminate certain columns that are not targets of features in the dataset to furhter refine the input to this model. 
