@@ -23,9 +23,17 @@ The variables that should be removed from the input data are EIN, NAME since the
 ### Compiling, Training, and Evaluating the Model
 
 - How many neurons, layers, and activation functions did you select for your neural network model, and why?
-For my neural network model, I selected 2 layers with 80 nodes for the 1st layer and 30 nodes for the 2nd layer. 
+
+For my neural network model, I selected 2 layers with 80 nodes for the 1st layer and 30 nodes for the 2nd layer. This achieved an bal accuracy of 72.5%. 
 
 ![alt_text](https://github.com/NassimNatA/Neural_Network_Charity_Analysis/blob/main/Screen%20Shot%202021-01-10%20at%202.09.08%20PM.png)
+
 - Were you able to achieve the target model performance?
+
+I was not able to get closer to target model performance after the three optimizations I applied. Each model had the same accuracy evaluation of 0.724781334400177 (72.5%). 
+
 - What steps did you take to try and increase model performance?
-Summary: Summarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem, and explain your recommendation.
+
+The steps I took to try and increase the process model were to increase the nodes of the model, increase number of hidden layers, and decrease number of hidden layers shown below: 
+
+## Summary
