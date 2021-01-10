@@ -6,8 +6,19 @@ The purpose of this project is to utilize machine learning to evaluate features 
 
 ## Results: 
 - What variable(s) are considered the target(s) for your model?
+
+The variable considered the target for this model is IS_SUCCESSFUL column.
+
 - What variable(s) are considered to be the features for your model?
+
+The variables considered to be features for this model are: APPLICATION_TYPE, AFFILIATION, CLASSIFICATION, USE_CASE, ORGANIZATION, 
+STATUS, INCOME_AMT, SPECIAL_CONSIDERATIONS, ASK_AMT
+
 - What variable(s) are neither targets nor features, and should be removed from the input data?
+
+The variables that should be removed from the input data are EIN, NAME since they are not targets or features. 
+
+
 Compiling, Training, and Evaluating the Model
 How many neurons, layers, and activation functions did you select for your neural network model, and why?
 Were you able to achieve the target model performance?
