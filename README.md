@@ -36,4 +36,7 @@ I was not able to get closer to target model performance after the three optimiz
 
 The steps I took to try and increase the process model were to increase the nodes of the model, increase number of hidden layers, and decrease number of hidden layers shown below: 
 
+![alt_text](https://github.com/NassimNatA/Neural_Network_Charity_Analysis/blob/main/Screen%20Shot%202021-01-10%20at%202.18.39%20PM.png)
+![alt_text](https://github.com/NassimNatA/Neural_Network_Charity_Analysis/blob/main/Screen%20Shot%202021-01-10%20at%202.18.31%20PM.png)
+![alt_text](https://github.com/NassimNatA/Neural_Network_Charity_Analysis/blob/main/Screen%20Shot%202021-01-10%20at%202.18.25%20PM.png)
 ## Summary
